@@ -25,6 +25,7 @@ public class FunFacts extends AppCompatActivity {
         mfunfactlayout = (View) findViewById(R.id.funfactlayout);
 
 
+        
 
     }
 
